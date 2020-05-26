@@ -6,7 +6,7 @@ namespace App2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Sum of 2 and 4 is 6!");
         }
     }
 }
